@@ -74,6 +74,7 @@ for(var i=0;i<3;i++)
 		var temp = "block"+i+j;
 		document.getElementById(temp).addEventListener("click", CanvasClicked, false);
 	}
+
 }
 
 
